@@ -3,5 +3,13 @@
   "description": "my own application",
   "repository": "https://github.com/mashukmashum/perflixmod",
   "logo": "https://raw.githubusercontent.com/mashukmashum/perflixmod/master/39.png",
-  "keywords": ["new", "modified", "tor"]
+  "keywords": ["new", "modified", "tor"],
+  	"buildpacks" : [
+		{
+			"url" : "https://github.com/abecadel/heroku-buildpack-nodejs-grunt-bower"
+		},
+    {
+      "url" : "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    }
+	]
 }

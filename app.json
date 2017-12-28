@@ -2,6 +2,6 @@
   "name": "Test tor mod",
   "description": "my own application",
   "repository": "https://github.com/mashukmashum/perflixmod",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "logo": "https://raw.githubusercontent.com/mashukmashum/perflixmod/master/39.png",
   "keywords": ["new", "modified", "tor"]
 }
